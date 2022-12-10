@@ -15,3 +15,4 @@ npx nx run nativescript-mobile:ios
 
 Illustrates:
 - Using platform specific code within libs
+  - Answers this question: https://github.com/NativeScript/nx/issues/64
